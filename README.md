@@ -1,6 +1,6 @@
 # Complexia
 
-Building AI products, crypto tools, and developer-facing software.
+Building AI.
 
 Currently working on [Durango](https://durango.sh), [Metaloot](https://metaloot.app), and [Ossmeta](https://ossmeta.com).
 
