@@ -8,14 +8,14 @@ Currently working on [Durango](https://durango.sh), [Metaloot](https://metaloot.
 
 ### Durango
 
-- [Durango](https://durango.sh) - AI workspace for chat, code, agents, and local-first workflows
+- [Durango](https://durango.sh) - AI workspace for chat and code.
 - [Durango Chat](https://chat.durango.sh) - AI chat with branching, model comparison, and canvas-style workflows
 - [Durango Code](https://code.durango.sh) - desktop coding workspace for Codex-style agent workflows
 
 ### Products
 
 - [Metaloot](https://metaloot.app) - crypto-native assets, metadata, and web3 loot experiments
-- [Ossmeta](https://ossmeta.com) - open-source and internet metadata experiments
+- [Ossmeta](https://ossmeta.com) - AI powered BJJ journal
 
 ## About Me
 
