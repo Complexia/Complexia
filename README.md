@@ -24,7 +24,6 @@ I like AI wrappers, Solana, Ethereum, especially all the quirky L2s, Rust, Golan
 Mostly interested in:
 
 - AI agents and chat UX
-- Local-first desktop software
 - Crypto products that feel good to use
 - Developer tools
 - Metadata, indexing, and weird internet infrastructure
